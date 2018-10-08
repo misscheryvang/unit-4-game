@@ -4,4 +4,4 @@ The game sums the users points as the points accumulates when one of the four ge
 # Deployed
 https://misscheryvang.github.io/Homework4/
 
-![Psychic Game](https://github.com/misscheryvang/gifTastic/blob/master/assets/screenshot/screen.png)
+![Psychic Game](https://github.com/misscheryvang/unit-4-game/blob/master/assets/screenshot/screen.png)
